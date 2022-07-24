@@ -22,7 +22,7 @@ variable MYIP {
     default = "0.0.0.0/0"
 }
 variable rmquser {
-    default "rabbit"
+    default = "rabbit"
 }
 variable rmqpass {
     default = "Gr33n@pple123456"
